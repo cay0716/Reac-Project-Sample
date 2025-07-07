@@ -1,5 +1,8 @@
 export default function Home() {
   return (
-    <>Test</>
+    <>
+      <h1>Test</h1>
+      <p>잘 되길...</p>
+    </>
   );
 }
